@@ -1,0 +1,24 @@
+{
+  "name": "gpt-image-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "MCP server local para geração e edição de imagens com OpenAI gpt-image-2 (direto na API, sem intermediário)",
+  "author": "Ana G. Soares (https://instagram.com/ana.gsoares)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anagesoares/gpt-image-mcp.git"
+  },
+  "bin": {
+    "gpt-image-mcp": "server.js"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "openai": "^4.0.0",
+    "zod": "^3.23.0"
+  }
+}
