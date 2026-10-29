@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/anagesoares/gpt-image-mcp.git"
+    "url": "https://github.com/anagsoares/gpt-image-mcp.git"
   },
   "bin": {
     "gpt-image-mcp": "server.js"

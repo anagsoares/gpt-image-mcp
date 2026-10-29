@@ -8,7 +8,7 @@ Você pede em português normal ("gera um mockup de app de finanças em tons de 
 > Este projeto foi feito pra ser instalado com a ajuda do próprio Claude Code. Abra o Claude Code, cole a frase abaixo e ele faz tudo pra você:
 >
 > ```
-> Instala pra mim o MCP deste repositório: https://github.com/anagesoares/gpt-image-mcp
+> Instala pra mim o MCP deste repositório: https://github.com/anagsoares/gpt-image-mcp
 > Leia o README e o CLAUDE.md e me conduza passo a passo.
 > ```
 
@@ -34,7 +34,7 @@ A cobrança é feita **na sua conta da OpenAI** (você precisa de uma chave de A
 ### 1. Baixe o projeto
 
 ```bash
-git clone https://github.com/anagesoares/gpt-image-mcp.git
+git clone https://github.com/anagsoares/gpt-image-mcp.git
 cd gpt-image-mcp
 npm install
 ```
